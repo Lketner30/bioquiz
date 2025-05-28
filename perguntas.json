@@ -1,0 +1,38 @@
+{
+  "configuracoes": {
+    "metaDeAcertos": 4,
+    "numeroDeOportunidades": 4
+  },
+  "listaDePerguntas": [
+    {
+      "pergunta": "Qual organela é responsável pela produção de energia na célula?",
+      "respostas": [
+        "Lisossomo",
+        "Mitocôndria",
+        "Ribossomo",
+        "Complexo de Golgi"
+      ],
+      "correta": "Mitocôndria"
+    },
+    {
+      "pergunta": "Qual organela está envolvida na síntese de proteínas?",
+      "respostas": ["Mitocôndria", "Lisossomo", "Ribossomo", "Peroxissomo"],
+      "correta": "Ribossomo"
+    },
+    {
+      "pergunta": "Qual organela atua na digestão intracelular?",
+      "respostas": [
+        "Núcleo",
+        "Lisossomo",
+        "Retículo Endoplasmático",
+        "Cloroplasto"
+      ],
+      "correta": "Lisossomo"
+    },
+    {
+      "pergunta": "Onde está localizado o material genético da célula?",
+      "respostas": ["Citoplasma", "Mitocôndria", "Ribossomo", "Núcleo"],
+      "correta": "Núcleo"
+    }
+  ]
+}
