@@ -33,6 +33,11 @@
       "pergunta": "Onde está localizado o material genético da célula?",
       "respostas": ["Citoplasma", "Mitocôndria", "Ribossomo", "Núcleo"],
       "correta": "Núcleo"
+    },
+    {
+      "pergunta": "Qual organela é conhecida como a usina de energia da célula?",
+      "respostas": ["Núcleo", "Ribossomo", "Mitocôndria", "Lisossomo"],
+      "correta": "Mitocôndria"
     }
   ]
 }
