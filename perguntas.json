@@ -1,7 +1,7 @@
 {
   "configuracoes": {
-    "metaDeAcertos": 4,
-    "numeroDeOportunidades": 4
+    "metaDeAcertos": 10,
+    "numeroDeOportunidades": 3
   },
   "listaDePerguntas": [
     {
