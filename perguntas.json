@@ -5,18 +5,18 @@
   },
   "listaDePerguntas": [
     {
-      "pergunta": "Qual organela é responsável pela produção de energia na célula?",
+      "pergunta": "Qual organela é conhecida como a usina de energia da célula?",
       "respostas": [
-        "Lisossomo",
+        "Núcleo",
         "Mitocôndria",
         "Ribossomo",
-        "Complexo de Golgi"
+        "Lisossomo"
       ],
       "correta": "Mitocôndria"
     },
     {
-      "pergunta": "Qual organela está envolvida na síntese de proteínas?",
-      "respostas": ["Mitocôndria", "Lisossomo", "Ribossomo", "Peroxissomo"],
+      "pergunta": "Qual organela está envolvida na produção de proteínas e é composta por RNA e proteínas?",
+      "respostas": ["Mitocôndria", "Lisossomo", "Ribossomo", "Complexo golgiense"],
       "correta": "Ribossomo"
     },
     {
@@ -35,9 +35,59 @@
       "correta": "Núcleo"
     },
     {
-      "pergunta": "Qual organela é conhecida como a usina de energia da célula?",
-      "respostas": ["Núcleo", "Ribossomo", "Mitocôndria", "Lisossomo"],
-      "correta": "Mitocôndria"
+      "pergunta": "Qual estrutura protege e envolve a célula?",
+      "respostas": ["Parede celular", "Citoesqueleto", "Membrana plasmática", "Núcleo"],
+      "correta": "Membrana plasmática"
     }
   ]
-}
+},
+{
+  "pergunta": "Qual organela modifica, empacota e transporta proteínas dentro da célula?",
+  "respostas": [
+    "Lisossomo",
+    "Complexo golgiense",
+    "Ribossomo",
+    "Retículo endoplasmático liso"
+  ],
+  "correta": "Complexo golgiense"
+},
+{
+  "pergunta": "Qual organela está presente apenas em células vegetais e realiza a fotossíntese?",
+  "respostas": [
+    "Mitocôndria",
+    "Retículo endoplasmático rugoso",
+    "Cloroplasto",
+    "Lisossomo"
+  ],
+  "correta": "Cloroplasto"
+},
+{
+  "pergunta": "Qual organela é responsável pela produção de lipídios e pela desintoxicação celular?",
+  "respostas": [
+    "Retículo endoplasmático liso",
+    "Retículo endoplasmático rugoso",
+    "Ribossomo",
+    "Mitocôndria"
+  ],
+  "correta": "Retículo endoplasmático liso"
+},
+{
+  "pergunta": "Qual organela está diretamente associada à produção de energia (ATP) por meio da respiração celular?",
+  "respostas": [
+    "Cloroplasto",
+    "Núcleo",
+    "Lisossomo",
+    "Mitocôndria"
+  ],
+  "correta": "Mitocôndria"
+},
+{
+  "pergunta": "Qual estrutura celular mantém a forma da célula e facilita o movimento interno de organelas?",
+  "respostas": [
+    "Citoplasma",
+    "Citoesqueleto",
+    "Núcleo",
+    "Complexo golgiense"
+  ],
+  "corre
+
