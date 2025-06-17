@@ -29,7 +29,8 @@
       ],
       "correta": "Lisossomo"
     },
+    {
       "pergunta": "Onde está localizado o material genético da célula?",
       "respostas": ["Citoplasma", "Mitocôndria", "Ribossomo", "Núcleo"],
       "correta": "Núcleo"
-    }
+    },
