@@ -39,8 +39,6 @@
       "respostas": ["Parede celular", "Citoesqueleto", "Membrana plasmática", "Núcleo"],
       "correta": "Membrana plasmática"
     }
-  ]
-},
 {
   "pergunta": "Qual organela modifica, empacota e transporta proteínas dentro da célula?",
   "respostas": [
@@ -88,6 +86,5 @@
     "Citoesqueleto",
     "Núcleo",
     "Complexo golgiense"
-  ],
-  "corre
+  ]
 
